@@ -10,8 +10,8 @@ URL = "https://zs5cv4ng75.execute-api.eu-central-1.amazonaws.com/prod"
 TEST_CASES = {
     "Street Name": {
         "city": "BYDGOSZCZ",
-        "street_name": "ZAMIEJSKA",
-        "street_number": 3,
+        "street_name": "LEGNICKA",
+        "street_number": 1,
     },
 }
 
